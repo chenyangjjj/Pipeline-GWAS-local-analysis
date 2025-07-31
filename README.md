@@ -19,3 +19,22 @@ FTD GWAS 2025
 
 Hg38 - Hg19 Conversions:
 
+sumstats
+
+
+plfies / bfiles
+
+
+tables
+
+
+
+
+
+
+
+
+
+
+
+
