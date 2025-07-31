@@ -16,3 +16,6 @@ AD GWAS 2023
 FTD GWAS 2025
 
 
+
+Hg38 - Hg19 Conversions:
+
